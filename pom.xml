@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>it.units.erallab</groupId>
-    <artifactId>VSREvolution</artifactId>
+    <artifactId>NeuralModelsVSR</artifactId>
     <version>0.14.0</version>
 
     <properties>
