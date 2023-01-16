@@ -12,7 +12,7 @@ public interface QuantizedValueToSpikeTrainConverter extends Serializable, Reset
   double UPPER_BOUND = 1;
   double DEFAULT_FREQUENCY = 50;
   double MIN_FREQUENCY = 5;
-  int ARRAY_SIZE = 16;
+  int ARRAY_SIZE = 240;
 
   int[] convert(double value, double timeWindowSize, double timeWindowEnd);
 
