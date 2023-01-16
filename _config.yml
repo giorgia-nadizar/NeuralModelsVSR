@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "On the Impact of Body Material Properties on Neuroevolution for Embodied Agents: the Case of Voxel-based Soft Robots"
+
+url: 'https://anondoubleblind.github.io/' # your main domain
+baseurl: 'BodyParamsInfluenceOnNE/'
