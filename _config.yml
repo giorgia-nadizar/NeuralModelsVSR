@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: "An Experimental Comparison of Neural Models for Controlling Evolved Modular Soft Robots"
+title: "An Experimental Comparison of Evolved Neural Network Models for Controlling Simulated Modular Soft Robots"
 
 url: 'https://giorgia-nadizar.github.io/' # your main domain
 baseurl: 'NeuralModelsVSR/'
