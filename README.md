@@ -1,4 +1,4 @@
-# An Experimental Comparison of Neural Models for Controlling Evolved Modular Soft Robots
+# An Experimental Comparison of Evolved Neural Network Models for Controlling Simulated Modular Soft Robots
 
 Repository for the paper "An Experimental Comparison of Neural Models for Controlling Evolved Modular Soft Robots".
 
